@@ -1,0 +1,34 @@
+{
+  "author": "Zahid Allauddin",
+  "bugs": {
+    "url": "https://github.com/zahidala/biomejs/issues"
+  },
+  "description": "BiomeJS Configuration",
+  "devDependencies": {
+    "@biomejs/biome": "2.4.15"
+  },
+  "exports": {
+    "./biome": "./biome.json"
+  },
+  "homepage": "https://github.com/zahidala/biomejs",
+  "keywords": [
+    "biome",
+    "formatter",
+    "linter",
+    "assists",
+    "css",
+    "javascript",
+    "json",
+    "typescript",
+    "tsx",
+    "tailwind"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "biomejs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "version": "1.0.0"
+}

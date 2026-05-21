@@ -1,0 +1,39 @@
+{
+  "biome.enabled": true,
+  "biome.requireConfiguration": true,
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.biome": "explicit",
+    "source.organizeImports.biome": "explicit"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "biomejs.biome"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "biomejs.biome"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "biomejs.biome"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "biomejs.biome"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "biomejs.biome"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "biomejs.biome"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "biomejs.biome"
+  },
+  "workbench.colorCustomizations": {
+    "editorWarning.foreground": "#D7BA7D",
+    "editorOverviewRuler.warningForeground": "#D7BA7D",
+    "editorOverviewRuler.inlineWarningForeground": "#D7BA7D",
+    "editorGutter.warningBackground": "#D7BA7D",
+    "minimap.warningHighlight": "#D7BA7D",
+    "list.warningForeground": "#D7BA7D",
+    "problemsWarningIcon.foreground": "#D7BA7D"
+  }
+}
