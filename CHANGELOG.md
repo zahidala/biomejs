@@ -1,3 +1,9 @@
+## [1.0.4](https://github.com/zahidala/biomejs/compare/v1.0.3...v1.0.4) (2026-05-21)
+
+### Bug Fixes
+
+* remove VSCode extensions configuration file ([0d14c8e](https://github.com/zahidala/biomejs/commit/0d14c8efd0d634423a4f71353f192ab53b4c5c33))
+
 ## [1.0.3](https://github.com/zahidala/biomejs/compare/v1.0.2...v1.0.3) (2026-05-21)
 
 ### Bug Fixes
