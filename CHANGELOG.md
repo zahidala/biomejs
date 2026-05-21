@@ -1,3 +1,9 @@
+## [1.0.2](https://github.com/zahidala/biomejs/compare/v1.0.1...v1.0.2) (2026-05-21)
+
+### Bug Fixes
+
+* disable assist and formatter for package files in overrides ([a520820](https://github.com/zahidala/biomejs/commit/a5208207ed62c5b405dc935d436393e270e8a431))
+
 ## [1.0.1](https://github.com/zahidala/biomejs/compare/v1.0.0...v1.0.1) (2026-05-21)
 
 ### Bug Fixes
