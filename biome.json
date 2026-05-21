@@ -169,6 +169,18 @@
   },
   "overrides": [
     {
+      "assist": {
+        "enabled": false
+      },
+      "formatter": {
+        "enabled": false
+      },
+      "includes": ["package.json", "package-lock.json"],
+      "linter": {
+        "enabled": false
+      }
+    },
+    {
       "includes": ["*.ts", "*.tsx", "*.mts", "*.cts"],
       "linter": {
         "rules": {
