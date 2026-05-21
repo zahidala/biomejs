@@ -1,3 +1,9 @@
+## [1.0.3](https://github.com/zahidala/biomejs/compare/v1.0.2...v1.0.3) (2026-05-21)
+
+### Bug Fixes
+
+* reorder and clean up VSCode settings for biome integration ([2111371](https://github.com/zahidala/biomejs/commit/2111371a5bed3b8a50b1d6f63172d77025682e88))
+
 ## [1.0.2](https://github.com/zahidala/biomejs/compare/v1.0.1...v1.0.2) (2026-05-21)
 
 ### Bug Fixes
