@@ -18,7 +18,7 @@
     [
       "@semantic-release/github",
       {
-        "failComment": false
+        "failCommentCondition": false
       }
     ],
     [
@@ -28,6 +28,5 @@
         "message": "chore(release): ${nextRelease.version} [skip ci]\n\n${nextRelease.notes}"
       }
     ]
-  ],
-  "repositoryUrl": "https://github.com/zahidala/biomejs.git"
+  ]
 }
